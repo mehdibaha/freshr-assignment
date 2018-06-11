@@ -26,7 +26,7 @@ As the Freshr database would need high availability on writes and read, but cons
 
 Trading off a little bit of consistency for availability and partitioning (PAC Theorem) would seem like a good choice.
 
-+ The kind of data we would store about users would be highly hierarchical (multiple nested objects) and would fit more as documents in mongodb than in a traditional RDBS like MariaDB or Postgres...
+Finally, the kind of data we would store about users would be highly hierarchical (multiple nested objects) and would fit more as documents in mongodb than in a traditional RDBS like MariaDB or Postgres...
 
 ### Question 5
 In order to run the notebook, you have to install jupyter, and then simply launch the file:
