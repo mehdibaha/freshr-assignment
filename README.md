@@ -1,4 +1,5 @@
 # Fresh
+This is a take-home assignment I did for the company [Freshr](https://www.freshr.fr/) to showcase my technical abilities in a "real-life" development project.
 
 ## Question 1
 A chatbot is typically design as a smart model which receives input from a user (the user's messages or any other kind of input), and returns a response.
